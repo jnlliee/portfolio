@@ -27188,17 +27188,17 @@ const imageAltText = "purple and blue abstract background";
  * passionate about, or enjoy,
  */ const skillsList = [
     "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
+    "Project Management",
+    "Problem solving",
+    "Web app development",
+    "Leadership",
     "Graphic design", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I love to work and grow in a team with a positive attitude.";
+ */ const detailOrQuote = "Goal: PM position at a BigTech company";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
