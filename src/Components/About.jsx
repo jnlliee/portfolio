@@ -32,10 +32,10 @@ const description =
  */
 const skillsList = [
   "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "Project Management",
+  "Problem solving",
+  "Web app development",
+  "Leadership",
   "Graphic design",
 ];
 
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I love to work and grow in a team with a positive attitude.";
+  "Goal: PM position at a BigTech company";
 
 const About = () => {
   return (
